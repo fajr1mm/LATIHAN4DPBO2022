@@ -19,4 +19,13 @@ main.py
 
 ## Screenshot Hasil Compiler menggunakan Tools **Python.org** :
 
-![image](https://user-images.githubusercontent.com/99385328/153930717-c7c5f121-03dd-4886-8c63-e9222f88ba75.png)
+### Hierarchial Inheritance
+#### SHIP Class
+![image](https://user-images.githubusercontent.com/99385328/156916565-c0916200-e7d4-4b86-9a44-796890d864b7.png)
+
+#### Airplane Class
+![image](https://user-images.githubusercontent.com/99385328/156916613-6e6795e4-4bd3-4008-ad41-b70e0113327b.png)
+
+### Multiple Inheritance
+#### Driver Class
+![image](https://user-images.githubusercontent.com/99385328/156916698-2be18be7-9a05-4abb-8bfb-f48065ab8925.png)
